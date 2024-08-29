@@ -47,9 +47,10 @@ public class Variables
         System.out.println("*16 bit - charOne = "+charOne+"\t\t\t*");
         System.out.println("*                               *");
         System.out.println("*          other types          *");
-        System.out.println("*                               *"); 
+        System.out.println("*                               *");
         System.out.println("*booleanOne = "+booleanOne+"\t\t\t\t*");
         System.out.println("*stringOne = "+stringOne+"\t\t*");
         System.out.println("\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\");
+
     }
 }
