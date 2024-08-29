@@ -2,7 +2,9 @@ Variables Lab For CompSciA
 
 Instructions:
 Lab Goal: This lab was designed to teach you how to define and output a variable.
+
 Lab Description: Define and print some variables.
+
 Lab Shell:
 public class Variables
 {
